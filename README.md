@@ -64,6 +64,7 @@ Example:
 ```
 forest_SD_300.mp4
 ```
+![Naming Convention](file_naming.png)
 
 ### Download Videos
 
@@ -71,7 +72,7 @@ You can download videos from the following dataset library:
 
 [http://www-itec.uni-klu.ac.at/dash/?page_id=207](http://www-itec.uni-klu.ac.at/dash/?page_id=207)
 
-For simplicity, a video set has been uploaded to Google Drive and can be downloaded from this link: [https://goo.gl/vpnEAd](https://goo.gl/vpnEAd).
+For simplicity, a video set has been uploaded to Google Drive and can be downloaded from this link: [https://drive.google.com/drive/folders/1W6CtqYSJYLNMlt9HBaRNQCTsqk3QrfDV?usp=sharing](https://drive.google.com/drive/folders/1W6CtqYSJYLNMlt9HBaRNQCTsqk3QrfDV?usp=sharing).
 
 ## Input Guide / Running Procedure
 
@@ -89,7 +90,7 @@ python h2server.py "PUSH" "PATH INCLUDING NAME OF THE FILE EXCEPT LAST PART" "VI
 #### Example:
 
 ```bash
-python h2server.py 3 "F:\Work\Educational info\Gottingen\Internet Technologies\video_archive\forest_SD" "mp4"
+python h2server.py 3 "F:\video_archive\forest_SD" "mp4"
 ```
 
 ### For Client
