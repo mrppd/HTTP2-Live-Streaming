@@ -54,6 +54,7 @@ The video archive should contain videos with bitrates 50, 150, 300, 600, 1200, 2
 ### File Naming Convention
 
 The naming format for each video has three parts separated by `_` and the extension, e.g.,
+![Naming Convention](https://raw.githubusercontent.com/mrppd/HTTP2-Live-Streaming/edit/main/file_naming.png)
 
 ```
 <name_of_video>_<resolution_information>_<bitrate>.mp4
