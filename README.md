@@ -6,8 +6,7 @@
     <title>README</title>
 </head>
 <body>
- # HTTP2 Live Streaming
- HTTP2 Push-Based Low-Delay Live Streaming
+
     <h1>Dependency</h1>
     <p>
         Please download and install Python 3.* from the following site:<br>
